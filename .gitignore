@@ -301,3 +301,5 @@ testings/Core8-Harvest6.0/harvest/biomass-removed-40.tif
 testings/Core8-Harvest6.0/harvest/biomass-removed-45.tif
 testings/Core8-Harvest6.0/harvest/biomass-removed-5.tif
 testings/Core8-Harvest6.0/harvest/biomass-removed-50.tif
+deploy/installer/{commonpf}/Biomass Harvest}/unins000.dat
+deploy/installer/{commonpf}/Biomass Harvest}/unins000.exe
